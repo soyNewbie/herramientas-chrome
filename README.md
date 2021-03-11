@@ -8,7 +8,7 @@ Contamos con muchas herramientas de chrome para desarrolladores. Aquí encontrar
 Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores, lo haremos desde F12 o desde el menú contextual seleccionando **INSPECCIONAR**.  
 
 
-## Listado de herramientas
+## Contenido
 
  - [Show device frame](#show_device_frame)
 
@@ -17,7 +17,7 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 
 ---
 <a name="show_device_frame"></a>
-### Show device frame  
+### ✨ Show device frame :sparkles: 
 
 >Opción disponible para dispositivos móviles MotoG4, Iphones y Ipad.  
   
@@ -36,6 +36,6 @@ Seleccionas el menú y eliges entre las siguientes opciones de acuerdo a lo que 
 
 ---
 <a name="responsive_media_queries"></a>
-### :small_blue_diamond:Responsive and show media queries
+### ✨ Responsive and show media queries :sparkles: 
 
 
