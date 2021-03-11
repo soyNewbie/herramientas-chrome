@@ -1,13 +1,13 @@
-# :sparkles:Herramientas Chrome para desarrolladores web:sparkles:
+# Herramientas Chrome para desarrolladores web
 
 
-*Desde F12 o desde el menú contextual seleccionas **INSPECCIONAR** y de esta forma accedes a la ventana de Chrome para desarrolladores.*
+Desde F12 o desde el menú contextual seleccionas **INSPECCIONAR** y de esta forma accedes a la ventana de Chrome para desarrolladores.
 
 ## :page_with_curl:Contenido
 
-- [Show device frame](#show_device_frame)
+ [Show device frame](#show_device_frame)
 
-- [Responsive and Show media queries](#responsive_media_queries)
+ [Responsive and Show media queries](#responsive_media_queries)
 
 
 <a name="show_device_frame"></a>
@@ -17,9 +17,9 @@
 
 * Seleccionas el menú y eliges las opciones: 
 
-> **SHOW DEVICE FRAME** para mostrar el marco del dispositivo.
+ **SHOW DEVICE FRAME** para mostrar el marco del dispositivo.
 
-> **HIDE DEVICE FRAME** para ocultar el marco del dispositivo. 
+ **HIDE DEVICE FRAME** para ocultar el marco del dispositivo. 
 
 \**Opción disponible para dispositivos móviles MotoG4, Iphones y Ipad.*  
 
