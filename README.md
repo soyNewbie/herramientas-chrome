@@ -1,4 +1,4 @@
-# Herramientas Chrome para desarrolladores web
+# ![chrome logo](logo5_40.png) Herramientas Chrome para desarrolladores web
 
 
 Desde F12 o desde el menú contextual seleccionas **INSPECCIONAR** y de esta forma accedes a la ventana de Chrome para desarrolladores.
@@ -13,9 +13,9 @@ Desde F12 o desde el menú contextual seleccionas **INSPECCIONAR** y de esta for
 <a name="show_device_frame"></a>
 ### :small_blue_diamond:Show device frame 
 
-* Selecciona **TOGGLE DEVICE TOOLBAR** para ver la lista de dispositivos disponibles.
+Selecciona **TOGGLE DEVICE TOOLBAR** para ver la lista de dispositivos disponibles.
 
-* Seleccionas el menú y eliges las opciones: 
+Seleccionas el menú y eliges las opciones: 
 
  **SHOW DEVICE FRAME** para mostrar el marco del dispositivo.
 
@@ -23,7 +23,7 @@ Desde F12 o desde el menú contextual seleccionas **INSPECCIONAR** y de esta for
 
 \**Opción disponible para dispositivos móviles MotoG4, Iphones y Ipad.*  
 
-![youtube logo](assets/youtube_logo_30.png) [Show device frame](https://www.youtube.com/watch?v=VOIM00tvl3U)
+![youtube logo](youtube_logo_30.png) [Show device frame](https://www.youtube.com/watch?v=VOIM00tvl3U)
 
 
 <a name="responsive_media_queries"></a>
