@@ -1,4 +1,6 @@
-![chrome logo](logo5_40.png)#Herramientas Chrome para desarrolladores web
+![portada](test.png)
+
+# ![chrome logo](logo5_40.png) Herramientas Chrome para desarrolladores web
 
 
 Contamos con muchas herramientas de chrome para desarrolladores. Aquí encontrarás una guía práctica para comenzar a utilizarlas a la hora de desarrollar tus proyectos. Cada herramienta cuenta con un video tutorial por si además quieres usar esta referencia.  
