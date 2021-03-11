@@ -26,9 +26,9 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 
 - Seleccionas el menú y eliges entre las siguientes opciones de acuerdo a lo que necesites usar 
 
- - **Show Device Frame** para mostrar el marco del dispositivo.
+   **Show Device Frame** para mostrar el marco del dispositivo.
 
- - **Hide Device Frame** para ocultar el marco del dispositivo. 
+   **Hide Device Frame** para ocultar el marco del dispositivo. 
 
 
 ![youtube logo](youtube_logo_30.png) [Show device frame](https://www.youtube.com/watch?v=VOIM00tvl3U)  
