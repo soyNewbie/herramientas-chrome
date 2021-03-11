@@ -1,14 +1,13 @@
 # ![chrome logo](logo5_40.png) Herramientas Chrome para desarrolladores web
 
 
-Desde F12 o desde el menú contextual seleccionas **INSPECCIONAR** y de esta forma accedes a la ventana de Chrome para desarrolladores.
-
-## :page_with_curl:Contenido
+## Contenido
 
  [Show device frame](#show_device_frame)
 
  [Responsive and Show media queries](#responsive_media_queries)
 
+>Desde F12 o desde el menú contextual seleccionas **INSPECCIONAR** y de esta forma accedes a la ventana de Chrome para desarrolladores.
 
 <a name="show_device_frame"></a>
 ### :small_blue_diamond:Show device frame 
