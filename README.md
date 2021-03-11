@@ -15,24 +15,24 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
  [Responsive and Show media queries](#responsive_media_queries)  
  
 
-
+---
 <a name="show_device_frame"></a>
-### ✔️ Show device frame  
-  
+### Show device frame  
+
   \**Opción disponible para dispositivos móviles MotoG4, Iphones y Ipad.*  
   
 
-Selecciona **TOGGLE DEVICE TOOLBAR** para ver la lista de dispositivos disponibles.
+Selecciona **Toggle Device Toolbar** para ver la lista de dispositivos disponibles.
 
-Seleccionas el menú y eliges las opciones: 
+Seleccionas el menú y eliges entre las siguientes opciones de acuerdo a lo que necesites usar 
 
- **SHOW DEVICE FRAME** para mostrar el marco del dispositivo.
+> **Show Device Frame** para mostrar el marco del dispositivo.
 
- **HIDE DEVICE FRAME** para ocultar el marco del dispositivo. 
+> **Hide Device Frame** para ocultar el marco del dispositivo. 
 
 
+![youtube logo](youtube_logo_30.png) [Show device frame](https://www.youtube.com/watch?v=VOIM00tvl3U)  
 
-![youtube logo](youtube_logo_30.png) [Show device frame](https://www.youtube.com/watch?v=VOIM00tvl3U)
 
 ---
 <a name="responsive_media_queries"></a>
