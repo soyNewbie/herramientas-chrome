@@ -10,18 +10,18 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 
 ## Listado de herramientas
 
- [Show device frame](#show_device_frame)
+ - [Show device frame](#show_device_frame)
 
- [Responsive and Show media queries](#responsive_media_queries)  
+ - [Responsive and Show media queries](#responsive_media_queries)  
  
 
 ---
 <a name="show_device_frame"></a>
 ### Show device frame  
 
-  \**Opción disponible para dispositivos móviles MotoG4, Iphones y Ipad.*  
+>Opción disponible para dispositivos móviles MotoG4, Iphones y Ipad.  
   
-
+ 
 Selecciona **Toggle Device Toolbar** para ver la lista de dispositivos disponibles.
 
 Seleccionas el menú y eliges entre las siguientes opciones de acuerdo a lo que necesites usar 
