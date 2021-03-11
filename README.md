@@ -18,6 +18,7 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 ---
 <a name="show_device_frame"></a>
 ### Show device frame  
+![youtube logo](youtube_logo_30.png) [ver video](https://www.youtube.com/watch?v=VOIM00tvl3U)  
 
 \**Opción disponible para dispositivos móviles MotoG4, Iphones y Ipad.*  
   
@@ -31,7 +32,7 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
    **Hide Device Frame** para ocultar el marco del dispositivo. 
 
 
-![youtube logo](youtube_logo_30.png) [ver video](https://www.youtube.com/watch?v=VOIM00tvl3U)  
+
 
 
 ---
