@@ -1,18 +1,23 @@
-# ![chrome logo](logo5_40.png) Herramientas Chrome para desarrolladores web
+![chrome logo](logo5_40.png) 
+
+# Herramientas Chrome para desarrolladores web
 
 Contamos con muchas herramientas de chrome para desarrolladores. Aquí encontrarás una guía práctica para comenzar a utilizarlas a la hora de desarrollar tus proyectos. Cada herramienta cuenta con un video tutorial por si además quieres usar esta referencia.  
-Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores, lo haremos desde F12 o desde el menú contextual seleccionando **INSPECCIONAR**.
+
+Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores, lo haremos desde F12 o desde el menú contextual seleccionando **INSPECCIONAR**.  
+
 
 ## Listado de herramientas
 
  [Show device frame](#show_device_frame)
 
- [Responsive and Show media queries](#responsive_media_queries)
+ [Responsive and Show media queries](#responsive_media_queries)  
+ 
 
 
 
 <a name="show_device_frame"></a>
-### 1️⃣ Show device frame 
+### Show device frame 
 
 Selecciona **TOGGLE DEVICE TOOLBAR** para ver la lista de dispositivos disponibles.
 
