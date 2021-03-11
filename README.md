@@ -8,7 +8,7 @@ Contamos con muchas herramientas de chrome para desarrolladores. Aquí encontrar
 Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores, lo haremos desde F12 o desde el menú contextual seleccionando **INSPECCIONAR**.  
 
 
-## ![logo](logo5_40.png) Listado de herramientas
+## Listado de herramientas
 
  [Show device frame](#show_device_frame)
 
@@ -17,7 +17,7 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 
 
 <a name="show_device_frame"></a>
-### 👉 Show device frame  
+### ✔️ Show device frame  
   
   \**Opción disponible para dispositivos móviles MotoG4, Iphones y Ipad.*  
   
