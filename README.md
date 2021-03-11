@@ -32,7 +32,7 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
    **Hide Device Frame** para ocultar el marco del dispositivo. 
 
 
-![youtube logo](youtube_logo_30.png) [ Ver en youtube](https://www.youtube.com/watch?v=VOIM00tvl3U) 
+ [![youtube logo](youtube_logo_30.png) Ver en youtube ](https://www.youtube.com/watch?v=VOIM00tvl3U) 
 
 
 ---
