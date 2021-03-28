@@ -1,5 +1,3 @@
-![portada](test.png)
-
 # Herramientas Chrome para desarrolladores web
 
 
