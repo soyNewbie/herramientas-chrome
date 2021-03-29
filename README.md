@@ -26,7 +26,7 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
  
 - Selecciona **Toggle Device Toolbar** para ver la lista de dispositivos disponibles.
 
-- Selecciona el menú y eliges entre las siguientes opciones de acuerdo a lo que necesites usar 
+- Selecciona el menú y elige entre las siguientes opciones de acuerdo a lo que necesites usar 
 
    **Show Device Frame** para mostrar el marco del dispositivo.
 
@@ -39,8 +39,12 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 ### Responsive and show media queries 
 
 
-- Selecciona el modo responsive para así porder arrastrar la ventana y ver el comportamiento del diseño de tu proyecto en las diferentes resoluciones.
-- Seleccionas el menú y eliges **show media query**. En una línea de color podrás ver las diferentes media queries en las que están diseñando y poder cambiar entre ellas fácilemte.
+- Selecciona el modo responsive para así poder arrastrar la ventana y ver el comportamiento del diseño de tu proyecto en las diferentes resoluciones.
+
+- Selecciona el menú y elige **show media query**. En una línea de color podrás ver las diferentes media queries en las que estás diseñando. Así podras cambiar entre ellas fácilmente.
+
 - Tip: existen páginas online como [responsive design checker](https://responsivedesignchecker.com/) donde al incluir el enlace a la demo del proyecto podemos ver el diseño en diferentes dispositivos móviles, tablets, desktop y tv.
 
  [![youtube logo](youtube_logo_30.png) Ver en youtube ](https://youtu.be/1iy5BKWHvAk)
+
+---
