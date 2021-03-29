@@ -1,7 +1,7 @@
 
 
 
-# ![logo chrome ](logo5_40.png)Herramientas Chrome 
+# ![logo chrome ](logo5_40.png)Chrome devtools
 
 
 Guía práctica de herramientas que ofrece chrome para desarrolladores web. Cada herramienta cuenta con un enlace a un clip tutorial donde puedes ver como usar la herramienta mencionada.
