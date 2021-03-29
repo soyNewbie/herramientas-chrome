@@ -29,10 +29,15 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 
    **Hide Device Frame** para ocultar el marco del dispositivo. 
 
- [![youtube logo](youtube_logo_30.png) Ver en youtube ](https://www.youtube.com/watch?v=VOIM00tvl3U) 
+ [![youtube logo](youtube_logo_30.png) Ver en youtube ](https://youtu.be/VOIM00tvl3U) 
 
 ---
 
 ### Responsive and show media queries 
 
 
+- Selecciona el modo responsive para así porder arrastrar la ventana y ver el comportamiento del diseño de tu proyecto en las diferentes resoluciones.
+- Seleccionas el menú y eliges **show media query**. En una línea de color podrás ver las diferentes media queries en las que están diseñando y poder cambiar entre ellas fácilemte.
+- Tip: existen páginas online como [responsive design checker](https://responsivedesignchecker.com/) donde al incluir el enlace a la demo del proyecto podemos ver el diseño en diferentes dispositivos móviles, tablets, desktop y tv.
+
+ [![youtube logo](youtube_logo_30.png) Ver en youtube ](https://youtu.be/1iy5BKWHvAk) 
