@@ -1,5 +1,7 @@
 
-# ![logo chrome](logo5_40.png)Herramientas Chrome 
+
+
+# ![logo chrome ](logo5_40.png)Herramientas Chrome 
 
 
 Guía práctica de herramientas que ofrece chrome para desarrolladores web. Cada herramienta cuenta con un enlace a un clip tutorial donde puedes ver como usar la herramienta mencionada.
@@ -41,4 +43,4 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 - Seleccionas el menú y eliges **show media query**. En una línea de color podrás ver las diferentes media queries en las que están diseñando y poder cambiar entre ellas fácilemte.
 - Tip: existen páginas online como [responsive design checker](https://responsivedesignchecker.com/) donde al incluir el enlace a la demo del proyecto podemos ver el diseño en diferentes dispositivos móviles, tablets, desktop y tv.
 
- [![youtube logo](youtube_logo_30.png) Ver en youtube ](https://youtu.be/1iy5BKWHvAk) 
+ [![youtube logo](youtube_logo_30.png) Ver en youtube ](https://youtu.be/1iy5BKWHvAk)
