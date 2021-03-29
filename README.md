@@ -8,9 +8,9 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 
 ## Contenido
 
- - [Show device frame](#show_device_frame)
+ - [Show device frame](#show-device-frame)
 
- - [Responsive and Show media queries](#responsive_media_queries)  
+ - [Responsive and Show media queries](#responsive-and-show-media-queries)  
  
 
 ---
@@ -29,9 +29,7 @@ Lo primero que haremos será acceder a la ventana de Chrome para desarrolladores
 
    **Hide Device Frame** para ocultar el marco del dispositivo. 
 
-
  [![youtube logo](youtube_logo_30.png) Ver en youtube ](https://www.youtube.com/watch?v=VOIM00tvl3U) 
-
 
 ---
 
